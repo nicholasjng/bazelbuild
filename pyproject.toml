@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bazelbuild"
+description = "A PEP 517 build backend for Bazel."
+version = "0.1.0"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+authors = [
+    { name = "Nicholas Junge", email = "nicho.junge@gmail.com" },
+]
+maintainers = [
+    { name = "Nicholas Junge", email = "nicho.junge@gmail.com" },
+]
