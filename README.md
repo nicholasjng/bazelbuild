@@ -17,7 +17,7 @@ One such example is building stable ABI wheels on Windows, which is currently no
 Currently only from git:
 
 ```shell
-python -m pip install git+https://(https://github.com/nicholasjng/bazelbuild)
+python -m pip install git+https://github.com/nicholasjng/bazelbuild
 ```
 
 A PyPI release is planned.
